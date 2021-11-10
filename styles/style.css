@@ -9,7 +9,7 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-/* * {border: 1px solid red} */
+/** {border: 1px solid red}*/
 
 .header {
   height: 100vh;
@@ -258,11 +258,11 @@
   background-size: 877px;
 }
 
-.section-title_dark {
+.section-title_theme_dark {
   color: white;
 }
 
-.cection-subtitle_dark {
+.section-subtitle_theme_dark {
   color: white;
   font-size: 24px;
   line-height: 34px;
@@ -273,7 +273,7 @@
   z-index: 1;
 }
 
-/*.table__heading_dark {
+/*.table__heading_theme_dark {
   font-size: 24px;
   line-height: 1.15;
   font-weight: bolder;
@@ -287,7 +287,7 @@
   margin-top: 80px;
 }
 
-/*.table__text_dark{
+/*.table__text_theme_dark{
   font-size: 18px;
   line-height: 1.2;
   font-weight: normal;
