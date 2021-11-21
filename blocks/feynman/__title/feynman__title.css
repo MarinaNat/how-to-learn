@@ -1,0 +1,11 @@
+.feynman__title {
+  font-size: 120px;
+  line-height: 1.15; /*высота строки*/
+  width: 648px;
+  position: relative;
+  margin: 0 auto 70px auto;
+  top: 100px;
+  font-weight: bolder;
+  text-align: center;
+  z-index: 1;
+}
