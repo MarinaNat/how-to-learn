@@ -32,7 +32,7 @@
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/kaufman/kaufman.css);
-@import url(../blocks/kaufman/_triangle/kaufman_triangle.css);
+@import url(../blocks/kaufman/_triangle/kaufman__triangle.css);
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place.css);
 @import url(../blocks/logo/_place/_footer/logo_place_footer.css);
