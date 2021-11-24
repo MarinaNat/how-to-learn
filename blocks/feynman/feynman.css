@@ -4,6 +4,8 @@
   align-items: center;
   margin: 0;
   position: relative;
-  height: 890px;
+  min-height: 890px;
   padding-top: 100px;
+  display: flex;
+  flex-direction: column;
 }

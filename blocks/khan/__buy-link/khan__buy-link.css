@@ -2,5 +2,7 @@
   width: auto;
   font-size: 30px;
   line-height: 42px;
-  font-weight: lighter;
+  font-weight: normal;
+  text-decoration: none;
+  margin-bottom: auto;
 }
