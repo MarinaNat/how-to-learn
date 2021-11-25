@@ -1,6 +1,6 @@
 .feynman {
   background-color: #f2f2f2;
-  color: black;
+  color: #000;
   align-items: center;
   margin: 0;
   position: relative;
@@ -8,4 +8,5 @@
   padding-top: 100px;
   display: flex;
   flex-direction: column;
+  box-sizing: border-box;
 }
